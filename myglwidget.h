@@ -8,8 +8,6 @@
 #include "renderobjects.h"
 
 
-#define BUFFER_OFFSET(i) ((char *)NULL + (i))
-
 
 class MyGLWidget : public QOpenGLWidget, QOpenGLFunctions_4_0_Core
 {
