@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Shaders/triangles.frag</file>
+        <file>Shaders/triangles.vert</file>
+        <file>Shaders/CoordSys.frag</file>
+        <file>Shaders/CoordSys.vert</file>
+        <file>Shaders/Cuboid.frag</file>
+        <file>Shaders/Cuboid.vert</file>
+        <file>Shaders/Fragment_Phong.frag</file>
+        <file>Shaders/Fragment_Phong.vert</file>
+    </qresource>
+</RCC>
